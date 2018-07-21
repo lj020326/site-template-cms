@@ -16,11 +16,16 @@ title = "Tasty Licks"
     weight = 2
 
 [[menu.main]]
+    name = "Drinks"
+    url  = "/drinkywinky"
+    weight = 3
+
+[[menu.main]]
     name = "Business Consulting"
     url  = "/biz"
-    weight = 3
+    weight = 4
 
 [[menu.main]]
     name = "Technology Consulting"
     url  = "/tech"
-    weight = 4
+    weight = 5
