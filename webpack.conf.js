@@ -15,9 +15,10 @@ export default {
         exclude: /node_modules/,
         query: { cacheDirectory: true }
       }
-    ]
+    ],
   },
 
+  mode: 'production',
   plugins: [
     new webpack.ProvidePlugin({
       fetch:

@@ -6,9 +6,8 @@ categories:
 date: 2018-06-17T17:03:58.000Z
 title: hot tech stuff
 description: >-
-  volcanic (bc), lights up (ca), be careful (nb), island food (ma), pacific
-  gold (ca)
-type: raw bar
+  lowpower (lp)
+type: datacenter
 price: 34
 ---
 
