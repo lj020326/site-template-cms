@@ -21,12 +21,12 @@ title = "EPG Technology"
     weight = 3
 
 [[menu.main]]
-    name = "Business Consulting"
-    url  = "/biz"
+    name = "Analytics"
+    url  = "/analytics"
     weight = 4
 
 [[menu.main]]
-    name = "Technology Consulting"
+    name = "Technology"
     url  = "/tech"
     weight = 5
 

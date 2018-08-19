@@ -1,14 +1,10 @@
 ---
 categories:
-  - virtual machine
-  - virtual container
-  - virtual people
+  - IaaS
 date: 2018-06-17T17:03:58.000Z
-title: hot tech stuff
+title: IaaS Intro
 description: >-
   lowpower (lp)
-type: datacenter
-price: 34
 ---
 
 
