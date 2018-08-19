@@ -1,4 +1,6 @@
 // JS Goes here - ES6 supported
+import Siema from 'siema';
+
 const mySiema = new Siema({
   selector: '.gallery-carousel',
   duration: 200,
