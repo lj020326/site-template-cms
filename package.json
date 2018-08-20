@@ -5,6 +5,9 @@
   "repository": "netlify/victor-hugo",
   "main": "index.js",
   "scripts": {
+    "clean:dist": "rm -rf dist",
+    "clean:tmp": "rm -rf tmp",
+    "clean": "npm run clean:dist && npm run clean:tmp",
     "hugo": "gulp hugo",
     "build": "gulp build",
     "build-preview": "gulp build-preview",
