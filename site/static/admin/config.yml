@@ -25,14 +25,14 @@ collections:
       - {label: "Type of Drink", name: "type", widget: "string", default: "beer"}
       - {label: "Price", name: "price", widget: "string"}
   - name: analytics
-    label: "Data Analytics"
+    label: "Analytics"
     folder: "site/content/analytics" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Name of Analysis Item", name: "title", widget: "string"}
       - {label: "Analysis Type", name: "categories", widget: "list", default: ["visualization", "predictive", "prescriptive", "accounting"]}
   - name: technology
-    label: "Technology Consulting"
+    label: "Technology"
     folder: "site/content/tech" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
